@@ -15,5 +15,5 @@ My mission is simple: **Master core financial processes and automate the rest.**
 
 #### 🤝 Let's Connect & Collaborate:
 * **Follow** me here for updates on new **CA Automation Projects** and scripts!
-* Connect with me on www.linkedin.com/in/jaidev-duggal for professional discussions. 
+* Connect with me on www.linkedin.com/in/jaidev-duggal for any type of discussions. 
 * Collaboration is always welcome! Drop a ⭐ on my repositories!
