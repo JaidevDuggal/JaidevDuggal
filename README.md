@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @JaidevDuggal
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi there, I'm @JaidevDuggal!
 
-<!---
-JaidevDuggal/JaidevDuggal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **CA Finalist 📈** from ICAI, driven by the passion to apply **Code to Commerce**.
+
+My mission is simple: **Master core financial processes and automate the rest.**
+
+---
+
+#### 🛠️ My Digital Focus:
+- **Finance Automation:** Building practical tools to eliminate repetitive tasks in Audit, Tax, and Compliance.
+- **Key Skills:** Python 🐍 (Automation), VBA Scripting, AutoHotkey (AHK).
+- **Tech-Driven:** Leveraging **NLP/AI** for rapid script development.
+
+---
+
+#### 🤝 Let's Connect & Collaborate:
+* **Follow** me here for updates on new **CA Automation Projects** and scripts!
+* Connect with me on [Your LinkedIn Profile Link] for professional discussions. 
+* Collaboration is always welcome! Drop a ⭐ on my repositories!
